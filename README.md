@@ -47,10 +47,11 @@ Podemos encontrar los archivos:
 - Modificar el archivo [version_info.txt](version_info.txt) según se requiera para agregar información al .exe, tales como la versión, nombre, descripción, etc. 
 - Ejecutar el comando
       
-    pyinstaller --onefile --icon=.\logo.ico --version-file version_info.txt main.py
+    pyinstaller --onefile --icon=.\logo.ico --version-file version_info.txt --name REQ0000_000.exe main.py
 
 # Nota
-- Si se encuentra algún bug, o se necesita realizar una mejora, actualizar esta plantilla, agregar una versión superior.
 
+- Si se encuentra algún bug, o se necesita realizar una mejora, actualizar esta plantilla, agregar una versión superior.
+- REQ0000_000 cambiarlo por el nombre del requerimiento ejemplo REQ2022_456
   Ejemplo esta plantilla está en la versión 0.0.3 el próximo commit hacerlo con el nombre versión 0.0.4 y también la versión al principio de este archivo
 - No hacer commits a esta plantilla cuando trabaje en algún automatismo
