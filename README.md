@@ -30,7 +30,6 @@ nos sirve también para los automatismos.
 
 # Paquete utils 
 Podemos encontrar los archivos:
-- **base y database:** Estos nos sirven para la conexión a base de datos
 - **my_logger:** Con este podemos agregar tanto en la consola como en un archivo plano lo que va sucediendo en el aplicativo
 - **security:** Con este podemos encriptar y desencriptar
 - **sftp_connection:** Nos permite conectar a un servidor SFTP, cargar y descargar archivo
