@@ -44,7 +44,7 @@ Podemos encontrar los archivos:
 - Limpia el archivo .log
 
 # ¿Cómo generar el archivo .exe?
-- Modificar [el archivo](version_info.txt) según se requiera para agregar información al .exe, tales como la versión, nombre, descripción, etc. 
+- Modificar el archivo [version_info.txt](version_info.txt) según se requiera para agregar información al .exe, tales como la versión, nombre, descripción, etc. 
 - Ejecutar el comando
       
     pyinstaller --onefile --icon=.\logo.ico --version-file version_info.txt main.py
