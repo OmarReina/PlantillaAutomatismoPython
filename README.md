@@ -52,6 +52,7 @@ Podemos encontrar los archivos:
 # Nota
 
 - Si se encuentra algún bug, o se necesita realizar una mejora, actualizar esta plantilla, agregar una versión superior.
-- REQ0000_000 cambiarlo por el nombre del requerimiento ejemplo REQ2022_456
+  
   Ejemplo esta plantilla está en la versión 0.0.3 el próximo commit hacerlo con el nombre versión 0.0.4 y también la versión al principio de este archivo
+- REQ0000_000 cambiarlo por el nombre del requerimiento ejemplo REQ2022_456
 - No hacer commits a esta plantilla cuando trabaje en algún automatismo
